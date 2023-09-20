@@ -27,7 +27,7 @@ This step has 3 parts:
 #### Part 3: Understand the variables
 * Use insights from your examination of the summary data to guide deeper investigation into specific variables.
 
-[Click here]() to see python code for above step 1.
+[Click here](https://github.com/rajmanish31/Automatidata-project/blob/main/Code/Inspect_and_analyse_data.ipynb) to see python code for above step 1.
 
 ### Step 2: Exploratory data analysis
 In this step, you will examine data provided and prepare it for analysis. You will also design a professional data visualization that tells a story, and will help data-driven decisions for business needs.
@@ -43,7 +43,7 @@ This step has 4 parts:
 
 #### Part 4: Evaluate and share results
 
-[Click here]() to see python code for above step 2.
+[Click here](https://github.com/rajmanish31/Automatidata-project/blob/main/Code/EDA.ipynb) to see python code for above step 2.
 
 ### Step 3: Statistical analysis
 In this step, you will practice using statistics to analyze and interpret data.
@@ -61,7 +61,7 @@ This step has 3 parts:
 * What key business insight(s) emerged from your A/B test?
 * What business recommendations do you propose based on your results?
 
-[Click here]() to see python code for above step 3.
+[Click here](https://github.com/rajmanish31/Automatidata-project/blob/main/Code/Statistical_analysis.ipynb) to see python code for above step 3.
 
 ### Step 4: Build a multiple linear regression model
 In this step, you will build a multiple linear regression model. Multiple linear regression helps you estimate the linear relationship between one continuous dependent variable and two or more independent variables.
@@ -78,7 +78,7 @@ This step has 3 parts:
 * What key insights emerged from your model(s)?
 * What business recommendations do you propose based on the models built?
 
-[Click here]() to see python code for above step 4.
+[Click here](https://github.com/rajmanish31/Automatidata-project/blob/main/Code/Multiple_linear_regression_model.ipynb) to see python code for above step 4.
 
 ### Step 5: Build a machine learning model
 In this step, you will practice using tree-based modeling techniques to predict on a binary target class.
@@ -95,4 +95,4 @@ This step has 3 parts:
 #### Part 3: Modeling
 * Build the models, evaluate them, and advise on next steps
 
-[Click here]() to see python code for above step 5.
+[Click here](https://github.com/rajmanish31/Automatidata-project/blob/main/Code/Machine_learning_model.ipynb) to see python code for above step 5.
